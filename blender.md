@@ -26,5 +26,7 @@ How to Turn on Emulate NumpadOpen
   - 'Z' to call upon the solid, wireframe, etc. menu
   - 'F' key to change the size of the radius
   - Shift + f for the strength of the brush.
-  - 
-  - 
+
+```
+with any brush, hold down 'Shift' for smoothing
+``` 
