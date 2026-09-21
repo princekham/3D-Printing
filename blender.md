@@ -28,5 +28,8 @@ How to Turn on Emulate NumpadOpen
   - Shift + f for the strength of the brush.
 
 ```
-with any brush, hold down 'Shift' for smoothing
+- with any brush, hold down 'Shift' for smoothing
+- and hold down 'Ctrl' for deflating
+- shortcut for Grab is 'G'
+- shortcut for Draw is 'V'
 ``` 
