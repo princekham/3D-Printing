@@ -23,4 +23,6 @@ How to Turn on Emulate NumpadOpen
   ```
   - 'Dynamic Topology' shortened as 'Dyntopo' can be turned on and off
   - after selecting a brush, Shift+ Space bar to open 'context menu'
+  - 'Z' to call upon the solid, wireframe, etc. menu
+  - 'F' key to change the size of the radius
   - 
