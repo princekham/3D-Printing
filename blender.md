@@ -15,3 +15,12 @@ How to Turn on Emulate NumpadOpen
 - S + ratio say 0.2 for scaling down to 0.2 %
 - G + X or Y or Z to grab along an axis
 - Shift+D for duplicating
+
+  ```
+  - To go to 'sculpt mode',
+  - select object,
+  - Ctrl + tab
+  ```
+  - 'Dynamic Topology' shortened as 'Dyntopo' can be turned on and off
+  - after selecting a brush, Shift+ Space bar to open 'context menu'
+  - 
