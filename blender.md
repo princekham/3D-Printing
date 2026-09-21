@@ -25,4 +25,6 @@ How to Turn on Emulate NumpadOpen
   - after selecting a brush, Shift+ Space bar to open 'context menu'
   - 'Z' to call upon the solid, wireframe, etc. menu
   - 'F' key to change the size of the radius
+  - Shift + f for the strength of the brush.
+  - 
   - 
