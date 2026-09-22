@@ -32,6 +32,7 @@ How to Turn on Emulate NumpadOpen
 - and hold down 'Ctrl' for deflating or subtracting
 - shortcut for Grab is 'G'
 - shortcut for Draw is 'V'
+- shortcut for Crease Brush is 'Shift + C'
 ```
 
 - With an object selected, a mirror modifier can be used. To use, press the wrench icon and search for mirror
