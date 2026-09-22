@@ -36,4 +36,10 @@ How to Turn on Emulate NumpadOpen
 
 - With an object selected, a mirror modifier can be used. To use, press the wrench icon and search for mirror
 - R + R to thumble rotate
+
+#### Under Dynamic Topology
+- there is 'Constant detail', 'Relative Detail'
+- 'Brush Detail' is relative to the size of the brush
+- 'manual detail'
+- And can set the resolution
 - 
