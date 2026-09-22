@@ -32,4 +32,8 @@ How to Turn on Emulate NumpadOpen
 - and hold down 'Ctrl' for deflating
 - shortcut for Grab is 'G'
 - shortcut for Draw is 'V'
-``` 
+```
+
+- With an object selected, a mirror modifier can be used. To use, press the wrench icon and search for mirror
+- Alt + Alt to rotate
+- 
