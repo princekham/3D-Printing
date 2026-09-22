@@ -35,5 +35,5 @@ How to Turn on Emulate NumpadOpen
 ```
 
 - With an object selected, a mirror modifier can be used. To use, press the wrench icon and search for mirror
-- Alt + Alt to rotate
+- R + R to thumble rotate
 - 
