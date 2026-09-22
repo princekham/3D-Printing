@@ -29,7 +29,7 @@ How to Turn on Emulate NumpadOpen
 
 ```
 - with any brush, hold down 'Shift' for smoothing
-- and hold down 'Ctrl' for deflating
+- and hold down 'Ctrl' for deflating or subtracting
 - shortcut for Grab is 'G'
 - shortcut for Draw is 'V'
 ```
