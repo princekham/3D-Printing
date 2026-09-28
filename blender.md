@@ -43,4 +43,8 @@ How to Turn on Emulate NumpadOpen
 - 'Brush Detail' is relative to the size of the brush
 - 'manual detail'
 - And can set the resolution
-- 
+
+### Using Mask
+
+### Shade Smooth and Shade Auto Smooth
+- in object mode, right click on the model, can choose "Shade Smooth" or "Shade Auto Smooth" to smoothen the object
