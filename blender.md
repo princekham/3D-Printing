@@ -58,7 +58,11 @@ How to Turn on Emulate NumpadOpen
 ### Creating Loop cut (it is like 'Divide' in AutoCAD, I think)
 - Ctrl + R and enter no of cuts you want and then double left click for confirming
 
-#### For Panning, Shift + Alt + Left mouse button
+#### For Panning, 
+
+```
+Shift + Alt + Left mouse button
+```
 
 ### Using Mask
 
