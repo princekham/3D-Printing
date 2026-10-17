@@ -64,6 +64,12 @@ How to Turn on Emulate NumpadOpen
 Shift + Alt + Left mouse button
 ```
 
+#### For moving Vertices, 
+
+```
+Select the vertice and  'G' grab to move
+```
+
 ### Using Mask
 
 ### Shade Smooth and Shade Auto Smooth
