@@ -69,6 +69,11 @@ Shift + Alt + Left mouse button
 ```
 Select the vertice and  'G' grab to move
 ```
+#### For adding subdivision surfaces, 
+
+```
+Ctrl + 2
+```
 
 ### Using Mask
 
