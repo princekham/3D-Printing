@@ -58,6 +58,8 @@ How to Turn on Emulate NumpadOpen
 ### Creating Loop cut (it is like 'Divide' in AutoCAD, I think)
 - Ctrl + R and enter no of cuts you want
 
+#### For Panning, Shift + Alt + Left mouse button
+
 ### Using Mask
 
 ### Shade Smooth and Shade Auto Smooth
