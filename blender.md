@@ -45,7 +45,7 @@ How to Turn on Emulate NumpadOpen
 - And can set the resolution
 
 
-###How to View the axis
+### How to View the axis
 
 ```
 - Under modifier -> Viewport Display -> toggle Show Axis
