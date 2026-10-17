@@ -44,6 +44,17 @@ How to Turn on Emulate NumpadOpen
 - 'manual detail'
 - And can set the resolution
 
+
+###How to View the axis
+
+```
+- Under modifier -> Viewport Display -> toggle Show Axis
+```
+#### In object mode, if we rotate an image, the axis will rotate with it.
+#### In edit mode, when rotate, the axis will not change
+#### Global and Local axis
+- Global axis is Reference axis and Local axis is body axis, as I can understand.
+
 ### Using Mask
 
 ### Shade Smooth and Shade Auto Smooth
