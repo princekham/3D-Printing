@@ -55,6 +55,9 @@ How to Turn on Emulate NumpadOpen
 #### Global and Local axis
 - Global axis is Reference axis and Local axis is body axis, as I can understand.
 
+### Creating Loop cut (it is like 'Divide' in AutoCAD, I think)
+- Ctrl + R and enter no of cuts you want
+
 ### Using Mask
 
 ### Shade Smooth and Shade Auto Smooth
