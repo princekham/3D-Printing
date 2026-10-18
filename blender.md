@@ -90,3 +90,9 @@ Ctrl + 2
 ```
 Select the part and press 'H' key
 ```
+### To Change the origin (Rotation point)
+
+```
+- Go to 'Option' at the top right corner, and then check the 'affect only origin'
+- Grab and move the origin to the desired place
+```
