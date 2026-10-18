@@ -74,6 +74,10 @@ Select the vertice and  'G' grab to move
 ```
 Ctrl + 2
 ```
+- I found that it does not work for my laptop.
+- Alternative way is to go to "Modifiers" -> "Add Modifier" -> "Generate" -> "Subdivision Surface"
+-  and then choose level '2' and Render '2' and click 'apply' from the drop-down list
+
 
 ### Using Mask
 
