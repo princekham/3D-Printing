@@ -82,11 +82,11 @@ Ctrl + 2
 ### Using Mask
 
 ### Shade Smooth and Shade Auto Smooth
+- in object mode, right click on the model, can choose "Shade Smooth" or "Shade Auto Smooth" to smoothen the object
+
 
 ### To Hide a part
 
 ```
 Select the part and press 'H' key
 ```
-- in object mode, right click on the model, can choose "Shade Smooth" or "Shade Auto Smooth" to smoothen the object
-
