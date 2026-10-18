@@ -96,3 +96,11 @@ Select the part and press 'H' key
 - Go to 'Option' at the top right corner, and then check the 'affect only origin'
 - Grab and move the origin to the desired place
 ```
+### To turn off 'X-ray' mode
+
+```
+Alt + Z
+```
+
+
+
